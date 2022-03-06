@@ -1,0 +1,20 @@
+.Phonetic {
+    margin: 20px 0;
+  }
+  
+  .rhap_container {
+    box-shadow: none;
+    align-items: center;
+    color: #ff4499;
+    align-items: flex-start;
+    margin-left: -20px;
+  }
+  
+  .rhap_container svg {
+    color: #ff4499;
+  }
+  
+  span {
+    line-height: 3.5;
+    opacity: 0.6;
+  }

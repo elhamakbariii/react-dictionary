@@ -1,0 +1,25 @@
+.App {
+  padding: 40px 0;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.App .logo {
+  max-width: 500px;
+  display: block;
+  margin: 30px auto;
+}
+
+.App footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.App a {
+  color: #f2b2f8;
+}
+
+.App .github {
+  max-width: 13 px;
+}
